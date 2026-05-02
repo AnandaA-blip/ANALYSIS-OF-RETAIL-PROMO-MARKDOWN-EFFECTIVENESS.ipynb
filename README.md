@@ -1,0 +1,2 @@
+# ANALYSIS-OF-RETAIL-PROMO-MARKDOWN-EFFECTIVENESS.ipynb
+Data Analyst Portofolio Project
