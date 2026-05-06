@@ -24,9 +24,9 @@ The goal is to move beyond traditional "sales uplift" metrics and identify the *
 
 | Page 1: Executive Summary | Page 2: Scenario Comparison |
 |:---:|:---:|
-| <img src="assets/Retail_Promo_Markdown_Dashboard_page-0001.png" width="400"> | <img src="assets/Retail_Promo_Markdown_Dashboard_page-0002.png" width="400"> |
+| <img src="assets/Retail_Promo_Markdown_Dashboard_page-0001.jpg" width="400"> | <img src="assets/Retail_Promo_Markdown_Dashboard_page-0002.jpg" width="400"> |
 | **Page 3: Category Risk Segmentation** | **Page 4: Seasonal Responsiveness** |
-| <img src="assets/Retail_Promo_Markdown_Dashboard_page-0003.png" width="400"> | <img src="assets/Retail_Promo_Markdown_Dashboard_page-0004.png" width="400"> |
+| <img src="assets/Retail_Promo_Markdown_Dashboard_page-0003.jpg" width="400"> | <img src="assets/Retail_Promo_Markdown_Dashboard_page-0004.jpg" width="400"> |
 
 *(Note: Please ensure the image filenames in the `assets/` folder match the names above, e.g., `dashboard_page1.png`)*
 
